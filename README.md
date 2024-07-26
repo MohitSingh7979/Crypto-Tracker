@@ -1,2 +1,1 @@
-
-Hosted link -  https://sarthakgahlot.github.io/Crypto-Tracker/
+# [Hosted Link](https://mohitsingh7979.github.io/Crypto-Tracker/)
